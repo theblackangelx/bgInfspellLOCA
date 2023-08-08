@@ -1,0 +1,1 @@
+# bgInfspellLOCA
